@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A Digital Notes Manager<br>👯 I’m looking to collaborate on Fullstack Projects<br>🌱 I’m currently learning Next Js<br>💬 Ask me about Frontend and Backend Technologies<br>📄 Know about my experiences on: https://www.linkedin.com/in/bhargav-krishna/<br>👨‍💻 All of my projects are available at: https://github.com/Bhargav-9121<br>📫 How to reach me: bkc.edu9121@gmail.com
+👯 I’m looking to collaborate on Fullstack Projects<br>🌱 I’m currently learning Next Js<br>💬 Ask me about Frontend and Backend Technologies<br>📄 Know about my experiences on: https://www.linkedin.com/in/bhargav-krishna/<br>👨‍💻 All of my projects are available at: https://github.com/Bhargav-9121<br>📫 How to reach me: bkc.edu9121@gmail.com
 
 
 ## 🌐 Socials:
